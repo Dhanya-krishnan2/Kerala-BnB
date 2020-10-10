@@ -26,7 +26,7 @@ const Banner = () => {
           Plan a different kind of getaway to uncover the hidden gems near you.
         </h5>
         <Button onClick={() => history.push('/all/browse')} variant='outlined'>
-          Explore Nearby
+          Explore, Enjoy, and find your home 
         </Button>
       </div>
     </div>

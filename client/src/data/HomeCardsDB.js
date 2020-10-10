@@ -1,7 +1,7 @@
 export const cards = [
   {
     url:
-      'https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720',
+      'https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=720',
     title: 'Online Experiences',
     description:
       'Unique activities we can do together, led by a world of hosts.',
