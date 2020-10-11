@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://Dhanyakunhikrishnan:9pEMca6mBTZ5Yb7r@cluster0.mhcof.mongodb.net/fakeDB?retryWrites=true&w=majority",
+  "jwtSecret": "zhHCR3ElypOynPYDsNUDNfW2VaVAJ1QQ"
+}
+

@@ -1,0 +1,19 @@
+{
+  "name": "shiv-bnb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhanya-krishnan2/Kerala-BnB.git"
+  },
+  "author": "Dhanya Kunhikrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhanya-krishnan2/Kerala-BnB/issues"
+  },
+  "homepage": "https://github.com/Dhanya-krishnan2/Kerala-BnB#readme"
+}
